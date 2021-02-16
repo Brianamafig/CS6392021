@@ -1,9 +1,0 @@
-Repository - a repository a section that is created to store specific codes, like when we make a repositorie for class as that is where all class codes will go
-Commit - is when you save the items you are trying to load where you can add comments to what you were adding or changing
-Push - is used to send the documents that you have added or changed into the githiub repository it is linked to.
-Branch - allows you to create another section in the repository that is seperate to the main section, so that you could have a seperet section that would not be edited when you push to another.
-Fork - Fork is almost the same as clone but it is supposed to be linked to your own repository do that way you can't edit the original.
-Merge - is when you take all the files and edit history from one or all branches and add them to the main repository section.
-Clone - clone is used to creat a link from a file in the computer to the repository of your choice giving all the files that are within it.
-Pull - pull takes any edits or changes of the repository and add/edit them in the file you have though it does not correspond with your changes, such as if you edit/add a document it will not be rewritten/deleted.
-Pull request - Is the same as pull but also tells other users on the github repository that you are changing some items so not to conflict with one another.
