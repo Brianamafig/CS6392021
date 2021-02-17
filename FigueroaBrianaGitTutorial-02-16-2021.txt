@@ -22,5 +22,11 @@ giving all the files that are within it.
 Pull - pull takes any edits or changes of the repository and add/edit them in the file you have though 
 it does not correspond with your changes, such as if you edit/add a document it will not be 
 rewritten/deleted.
-Pull request - Is the same as pull but also tells other users on the github repository that you are 
-changing some items so not to conflict with one another.
+Pull request - Is the same as pull but it should not effect the main file unless the owner allows it.
+
+to add name to file
+
+- pressed the fork button in the git repositor, cloned the fork to my computer, made edits to the files, commited
+the files in the forked files, pushed them to the fotkrf file, once it was uploaded I used the pull button on the 
+github tab and sent the file edit to be added.
+
