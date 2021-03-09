@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTaskProject</string>
+    <string name="go_back">Go Back</string>
+    <string name="url_of_image">URL of Image</string>
+    <string name="Button">Where Was I Born?</string>
+    <string name="where">IT\'S NEW YORK CITY</string>
+</resources>
