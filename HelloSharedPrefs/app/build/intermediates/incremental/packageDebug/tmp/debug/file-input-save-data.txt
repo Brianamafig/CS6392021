@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 12 21:18:08 EST 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\drago\\Desktop\\CSMobileAppClass\\Assignments\\android-fundamentals-starter-apps-v2-master\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
