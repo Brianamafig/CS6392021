@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidtermBrianaFigueroaV1</string>
+    <string name="convert">Convert</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="NumberConverted">0</string>
+    <string name="TitleText"><![CDATA[Mi. -> Km]]></string>
+</resources>
