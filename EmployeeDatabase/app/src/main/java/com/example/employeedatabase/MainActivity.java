@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
@@ -51,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                     counter++;
                 }
                 mAllName.setText(string);
+                mAllName.setMovementMethod(new ScrollingMovementMethod());
                 mcount = counter;
                 //Employees employees = snapshot.getValue(Employees.class);
 
