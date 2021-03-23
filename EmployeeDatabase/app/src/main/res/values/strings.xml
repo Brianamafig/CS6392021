@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmployeeDatabase</string>
+    <string name="add">Add</string>
+    <string name="LastName">Enter Last Name</string>
+    <string name="FirstName">Enter First Name</string>
+    <string name="AllEmName">Nothing Here Sorry!</string>
+</resources>
